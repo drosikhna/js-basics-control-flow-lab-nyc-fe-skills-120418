@@ -4,7 +4,7 @@ function scuberGreetingForFeet(feet) {
     return ('This one is on me!')
 } else if (scuberGreetingForFeet >400)
   return
-   
+} 
   
 function switchOnCharmFromTip()
 
