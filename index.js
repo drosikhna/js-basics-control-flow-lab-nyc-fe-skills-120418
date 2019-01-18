@@ -8,7 +8,8 @@ function scuberGreetingForFeet(Feet) {
   }
 }
 function ternaryCheckCity(destination)
-  return
+  return (city === "NYC" ? "Ok, sounds good." : "No go.");
+}
   
 // function switchOnCharmFromTip()
 
