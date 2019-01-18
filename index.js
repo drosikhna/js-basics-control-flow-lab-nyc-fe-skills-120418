@@ -19,7 +19,7 @@ function ternaryCheckCity(city) {
     return "Thank you."
     break
     default:
-    return "Bye"
+    return "Bye."
   }
   }
   
