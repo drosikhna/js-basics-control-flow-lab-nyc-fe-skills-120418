@@ -21,5 +21,6 @@ function ternaryCheckCity(city) {
     default:
     return "Bye"
   }
+  }
   
 
