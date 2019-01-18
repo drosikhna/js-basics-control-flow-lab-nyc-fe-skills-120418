@@ -15,6 +15,9 @@ function ternaryCheckCity(city) {
     case 'generous': 
     return "Thank you so much."
     break;
-  }
+  } switch (tip) {
+    case 'generous': 
+    return "Thank you so much."
+    break;
   }
 
