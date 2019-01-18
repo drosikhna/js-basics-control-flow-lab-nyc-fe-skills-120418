@@ -7,7 +7,7 @@ function scuberGreetingForFeet(Feet) {
     return ('I will gladly take your thirty bucks.')
   }
 }
-function ternaryCheckCity(destination)
+function ternaryCheckCity(city)
   return (city === "NYC" ? "Ok, sounds good." : "No go.");
 }
   
