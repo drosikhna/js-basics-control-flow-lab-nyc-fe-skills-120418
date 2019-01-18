@@ -11,6 +11,10 @@ function ternaryCheckCity(city) {
   return (city === "NYC" ? 'Ok, sounds good.':'No go.')
 }
   function switchOnCharmFromTip(tip) {
-    
+    switch (tip) {
+    case "red": {
+    ourSpan.style.width = "50%"
+    break
+  }
   }
 
