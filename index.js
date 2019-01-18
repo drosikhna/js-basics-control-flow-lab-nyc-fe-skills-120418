@@ -12,8 +12,8 @@ function ternaryCheckCity(city) {
 }
   function switchOnCharmFromTip(tip) {
     switch (tip) {
-    case "red": {
-    ourSpan.style.width = "50%"
+    case 'generous': {
+    return "Thank you so much."
     break
   }
   }
