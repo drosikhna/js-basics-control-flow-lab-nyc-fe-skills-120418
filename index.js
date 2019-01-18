@@ -20,4 +20,5 @@ function ternaryCheckCity(city) {
     return "Thank you."
     break;
   }
+  }
 
