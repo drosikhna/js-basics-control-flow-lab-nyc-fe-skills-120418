@@ -1,5 +1,5 @@
 // Write your code in this file!
-function scuberGreetingForFeet(someValue) {
+function scuberGreetingForFeet(feet) {
   if (feet < 401) {
     return = "This one is on me!"
 }
