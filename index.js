@@ -7,7 +7,8 @@ function scuberGreetingForFeet(Feet) {
     return ('I will gladly take your thirty bucks.')
   }
 }
-
+function ternaryCheckCity(destination)
+  return
   
 // function switchOnCharmFromTip()
 
